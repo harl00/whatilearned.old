@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: \#What I Learned
+name: What I Learned
 
 # Short bio or description (displayed in the header)
 description: What I learned
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: harl00/whatilearned
   instagram:
   linkedin: andrewnmorrison
   pinterest:
